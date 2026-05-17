@@ -111,7 +111,7 @@ android/
 Projeyi klonlayın:
 
 ```text
-git clone REPOSITORY_LINKINIZ
+git clone https://github.com/Furk4nn/mini-oto-katalog
 cd mini_katalog_furkan
 ```
 
