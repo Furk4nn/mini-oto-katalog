@@ -112,7 +112,7 @@ Projeyi klonlayın:
 
 ```text
 git clone https://github.com/Furk4nn/mini-oto-katalog
-cd mini_katalog_furkan
+cd mini-oto-katalog
 ```
 
 Bağımlılıkları yükleyin:

@@ -1,4 +1,4 @@
-package com.example.mini_katalog
+package com.furkanince.miniotokatalog
 
 import io.flutter.embedding.android.FlutterActivity
 
